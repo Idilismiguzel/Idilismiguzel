@@ -1,4 +1,22 @@
+<p align="center">
+<a href="https://octodex.github.com/fintechtocat/"><img src="https://github.com/Idilismiguzel/Idilismiguzel/raw/master/.readme/icons/fintechtocat.png" height="160px" width="160px"></a>
+<a href="https://octodex.github.com/umbrellatocat/"><img src="https://github.com/Idilismiguzel/Idilismiguzel/raw/master/.readme/icons/umbrellatocat.png" height="160px" width="160px"></a>
+<a href="https://octodex.github.com/jetpacktocat/"><img src="https://github.com/Idilismiguzel/Idilismiguzel/raw/master/.readme/icons/jetpacktocat.png" height="160px" width="160px"></a>
+</p>
+
 ### Hi there 👋
+
+Welcome to my page! I'm Idil a passionate Data Scientist based in Italy. I enjoy sharing my personal projects related to data, machine and deep learning. 
+
+
+## Find me elsewhere :computer:
+
+<p align="center">
+<a href="https://www.linkedin.com/in/idilismiguzel/" target="blank"><img align="center" src="https://github.com/Idilismiguzel/Idilismiguzel/raw/master/.readme/icons/linkedin.png" alt="markus-mayer" height="64" width="64" /></a>
+<a href="https://medium.com/@idilismiguzel" target="blank"><img align="center" src="https://github.com/Idilismiguzel/Idilismiguzel/raw/master/.readme/icons/medium.png" alt="@sunside" height="64" width="64" /></a>
+</p>
+
+##
 
 <!--
 **Idilismiguzel/Idilismiguzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
