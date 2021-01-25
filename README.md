@@ -4,7 +4,7 @@
 <a href="https://octodex.github.com/jetpacktocat/"><img src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/jetpacktocat.png" height="160px" width="160px"></a>
 </p>
 
-### Hi there 👋
+## Hi there 👋
 
 Welcome to my page! I'm Idil, a passionate Data Scientist based in Italy. I enjoy sharing my projects related to data, machine & deep learning. 
 Here you can find the source code of my Medium articles, repositories for some MOOCs and Nanodegree programs, and a bunch of forked awesome repositories.
