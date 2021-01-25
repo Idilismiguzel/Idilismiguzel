@@ -14,7 +14,7 @@ Here you can find the source code of my Medium articles, repositories for some M
 
 <p align="center">
 <a href="https://www.linkedin.com/in/idilismiguzel/" target="blank"><img align="center" src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/linkedin.png" alt="idilismiguzel" height="64" width="64" /></a>
-<a href="https://medium.com/@idilismiguzel" target="blank"><img align="center" src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/medium.png" alt="@idilismiguzel" height="64" width="64" /></a>
+<a href="https://medium.com/@idilismiguzel" target="blank"><img align="center" src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/medium.png" alt="@idilismiguzel" height="60" width="64" /></a>
 </p>
 
 ##
