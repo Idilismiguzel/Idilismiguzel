@@ -12,8 +12,8 @@ Welcome to my page! I'm Idil a passionate Data Scientist based in Italy. I enjoy
 ## Find me elsewhere :computer:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/idilismiguzel/" target="blank"><img align="center" src="https://github.com/Idilismiguzel/Idilismiguzel/raw/master/.readme/icons/linkedin.png" alt="markus-mayer" height="64" width="64" /></a>
-<a href="https://medium.com/@idilismiguzel" target="blank"><img align="center" src="https://github.com/Idilismiguzel/Idilismiguzel/raw/master/.readme/icons/medium.png" alt="@sunside" height="64" width="64" /></a>
+<a href="https://www.linkedin.com/in/idilismiguzel/" target="blank"><img align="center" src="https://github.com/Idilismiguzel/Idilismiguzel/raw/master/.readme/icons/linkedin.png" alt="idilismiguzel" height="64" width="64" /></a>
+<a href="https://medium.com/@idilismiguzel" target="blank"><img align="center" src="https://github.com/Idilismiguzel/Idilismiguzel/raw/master/.readme/icons/medium.png" alt="@idilismiguzel" height="64" width="64" /></a>
 </p>
 
 ##
