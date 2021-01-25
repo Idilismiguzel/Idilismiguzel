@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://octodex.github.com/fintechtocat/"><img src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/Fintechtocat.png" height="160px" width="160px"></a>
-<a href="https://octodex.github.com/umbrellatocat/"><img src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/umbrellatocat.png" height="160px" width="160px"></a>
+<a href="https://octodex.github.com/umbrellatocat/"><img src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/umbrellacat.png" height="160px" width="160px"></a>
 <a href="https://octodex.github.com/jetpacktocat/"><img src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/jetpacktocat.png" height="160px" width="160px"></a>
 </p>
 
