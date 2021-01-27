@@ -7,14 +7,15 @@
 ## Hi there 👋
 
 Welcome to my page! I'm Idil, a passionate Data Scientist based in Italy. I enjoy sharing my projects related to data, machine & deep learning. 
-Here you can find the source code of my Medium articles, repositories for some MOOCs and Nanodegree programs, and a bunch of forked awesome repositories.
+Here you can find the source code of my Medium articles, repositories for some MOOCs and Nanodegree programs, and a bunch of forked  repositories.
+Here you can find the source code of my Medium articles, repositories for some MOOCs and Nanodegree programs, and a bunch of awesome forked repositories.
 
 
 ## Find me elsewhere :computer:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/idilismiguzel/" target="blank"><img align="center" src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/linkedin.png" alt="idilismiguzel" height="64" width="64" /></a>
-<a href="https://medium.com/@idilismiguzel" target="blank"><img align="center" src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/medium.png" alt="@idilismiguzel" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/idilismiguzel/" target="blank"><img align="center" src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/linkedin.png" alt="idilismiguzel" height="30" width="30" /></a>
+<a href="https://medium.com/@idilismiguzel" target="blank"><img align="center" src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/medium.png" alt="@idilismiguzel" height="25" width="25" /></a>
 </p>
 
 ##
