@@ -1,8 +1,4 @@
-<p align="center">
-<a href="https://octodex.github.com/fintechtocat/"><img src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/Fintechtocat.png" height="140px" width="140px"></a>
-<a href="https://octodex.github.com/puddle_jumper_octodex/"><img src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/puddle_jumper_octodex.jpg" height="140px" width="140px"></a>
-<a href="https://octodex.github.com/jetpacktocat/"><img src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/jetpacktocat.png" height="140px" width="140px"></a>
-</p>
+
 
 ## Hi there 👋
 
@@ -32,4 +28,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="center">
+<a href="https://octodex.github.com/fintechtocat/"><img src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/Fintechtocat.png" height="140px" width="140px"></a>
+<a href="https://octodex.github.com/puddle_jumper_octodex/"><img src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/puddle_jumper_octodex.jpg" height="140px" width="140px"></a>
+<a href="https://octodex.github.com/jetpacktocat/"><img src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/jetpacktocat.png" height="140px" width="140px"></a>
+</p>
+
 -->
