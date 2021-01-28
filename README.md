@@ -5,9 +5,9 @@ Here you can find the source code of my Medium articles, repositories for some M
 
 
 ## Find me elsewhere :computer:
-<a href="https://www.linkedin.com/in/idilismiguzel/" target="blank"><img align="center" src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/linkedin.png" alt="idilismiguzel" height="30" width="30" /> Connect on LinkedIn </a>
+<a href="https://www.linkedin.com/in/idilismiguzel/" target="blank"><img align="center" src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/linkedin.png" alt="idilismiguzel" height="25" width="25" /> Connect on LinkedIn </a>
 
-<a href="https://medium.com/@idilismiguzel" target="blank"><img align="center" src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/medium.png" alt="@idilismiguzel" height="27" width="27" /> Follow my writings </a>
+<a href="https://medium.com/@idilismiguzel" target="blank"><img align="center" src="https://github.com/Idilismiguzel/Idilismiguzel/blob/main/icons/medium.png" alt="@idilismiguzel" height="23" width="23" /> Follow my writings </a>
 </p>
 
 ##
