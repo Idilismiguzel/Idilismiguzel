@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-Welcome to my page! I'm Idil, a Data Scientist based in Italy. I enjoy sharing my projects related to data, machine & deep learning. 
 Here you can find the source code of my Medium articles, repositories for some MOOCs and Nanodegree programs, and a bunch of awesome forked repositories.
 
 
